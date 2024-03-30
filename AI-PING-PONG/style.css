@@ -1,0 +1,19 @@
+.pingpong {
+    width:100%;
+    text-align:left;
+}
+.pingpong h3 {
+    display: inline;
+}
+.pingpong button {
+    float: right;
+    border: 5px solid black;
+
+}
+ .big_image{
+    width:100%;
+ }
+
+ #play,#status{
+    font-size: 25px;
+ }
