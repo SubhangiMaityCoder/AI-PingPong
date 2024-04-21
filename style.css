@@ -1,0 +1,37 @@
+.pingpong {
+    width:100%;
+    text-align:left;
+}
+.pingpong h3 {
+    display: inline;
+}
+.pingpong button { 
+    float: right;
+    border: 5px solid black;
+
+}
+ .big_image{
+    width:100%;
+ }
+
+ #play,#status{
+    font-size: 25px;
+ }
+
+h4{
+    background-color: blueviolet;
+    line-height: 2;
+    margin: 0px;
+ }
+
+ .modal-dialog{
+    width: 90%;
+ }
+
+ .instructions{
+    width:45%;
+    display:inline-block;
+    
+ }
+ 
+
